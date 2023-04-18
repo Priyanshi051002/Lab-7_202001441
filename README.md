@@ -211,6 +211,9 @@ public class LinearSearchTest {
 </table>
 </br>
 
+# Output of testcases
+![image](https://user-images.githubusercontent.com/75667552/232742997-fd85aca5-bad6-45b5-944a-b6a6fb80b551.png)
+
 ### Problem 2 :
 
 ### Equivalence Partitioning:
@@ -291,6 +294,8 @@ public class LinearSearchTest {
   </tbody>
 </table>
 </br>
+# Output of testcases
+![image](https://user-images.githubusercontent.com/75667552/232743145-a01ee23c-c9ba-42b6-98c5-8a64a894cdfc.png)
 
 ### Problem 3 :
 
@@ -352,6 +357,8 @@ public class LinearSearchTest {
   </tr>
 </table>
 </br>
+# Output of testcases
+![image](https://user-images.githubusercontent.com/75667552/232743264-6cbad1e3-158d-4a05-808e-f757aaf871ab.png)
 
 ### Problem 4 :
 
@@ -466,6 +473,9 @@ public class LinearSearchTest {
     <td>INVALID</td>
   </tr>
 </table>
+# Output of testcases
+![image](https://user-images.githubusercontent.com/75667552/232744218-7cf553ac-97ba-4cdc-b4e7-f244b35f9870.png)
+
 ### Problem 5 :
 
 ### Equivalence Partitioning:
@@ -540,6 +550,8 @@ public class LinearSearchTest {
   </tr>
 </table>
 </br>
+#Output of testcases
+![image](https://user-images.githubusercontent.com/75667552/232744340-0b285a0f-5c32-4d44-89fc-e860a6ba9936.png)
 
 ### Problem 6 :
 
