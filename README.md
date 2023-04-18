@@ -294,6 +294,7 @@ public class LinearSearchTest {
   </tbody>
 </table>
 </br>
+
 # Output of testcases
 ![image](https://user-images.githubusercontent.com/75667552/232743145-a01ee23c-c9ba-42b6-98c5-8a64a894cdfc.png)
 
@@ -357,6 +358,7 @@ public class LinearSearchTest {
   </tr>
 </table>
 </br>
+
 # Output of testcases
 ![image](https://user-images.githubusercontent.com/75667552/232743264-6cbad1e3-158d-4a05-808e-f757aaf871ab.png)
 
@@ -473,6 +475,7 @@ public class LinearSearchTest {
     <td>INVALID</td>
   </tr>
 </table>
+
 # Output of testcases
 ![image](https://user-images.githubusercontent.com/75667552/232744218-7cf553ac-97ba-4cdc-b4e7-f244b35f9870.png)
 
@@ -550,7 +553,8 @@ public class LinearSearchTest {
   </tr>
 </table>
 </br>
-#Output of testcases
+
+# Output of testcases
 ![image](https://user-images.githubusercontent.com/75667552/232744340-0b285a0f-5c32-4d44-89fc-e860a6ba9936.png)
 
 ### Problem 6 :
